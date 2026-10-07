@@ -19,10 +19,10 @@ Software Engineer from Escuela Politécnica Nacional (Summa Cum Laude, 2026) and
 
 ## Experience
 
-**Full-Stack Developer** · Inova Solutions Ecuador · _Nov 2025 – present_
+**Full-Stack Developer** · Inova Solutions Ecuador · _Nov 2025 – present_<br>
 Design, implementation and deployment of custom web applications for clients, owning code quality and delivery across the software lifecycle.
 
-**Full-Stack Developer** · Red de Instituciones Financieras · _Apr 2025 – Oct 2025_
+**Full-Stack Developer** · Red de Instituciones Financieras · _Apr 2025 – Oct 2025_<br>
 Full software development lifecycle and ongoing maintenance of the network's technology solutions.
 
 ## Certifications
@@ -36,7 +36,7 @@ Full software development lifecycle and ongoing maintenance of the network's tec
 
 ## Education
 
-**Software Engineering** · Escuela Politécnica Nacional, Quito · _2021 – 2026_
+**Software Engineering** · Escuela Politécnica Nacional, Quito · _2021 – 2026_<br>
 Graduated **Summa Cum Laude**. Thesis: Agile testing assisted by Generative AI for the PoliAcredita software product, developed with Scrum.
 
 ## How I work
